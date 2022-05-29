@@ -27,9 +27,16 @@ The main dependencies used are:
 ![WhatsApp Image 2022-05-29 at 9 15 47 PM](https://user-images.githubusercontent.com/89723030/170878441-9363ebbb-c120-462b-b260-1d5f739815a1.jpeg)
 
 
-* Instructions to run it:
-* 1: clone the repo  
-* 2:open your terminal
+* Instructions to run it: 
+* 2:open your terminal 
+* cd into directory of your choice
+* type python -m venv Projectvenv (or any name)
+* after its done , you will see a directory with same name as what you have provided as venv name
+* cd into it 
+* Then type cd scripts
+* now type activate
+* type cd ..
+* Now clone the repo into the same  directory
 * 3:cd into the repo folder
 * 4:type pip install -r requirements.txt (Note:it will install all the dependecies for the project)
 * 5:once all dependecies are installed , Type python app.py in the terminal to run the application
