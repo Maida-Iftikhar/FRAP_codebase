@@ -29,7 +29,7 @@ The main dependencies used are:
 
 
 * Instructions to run it:
-1. Here's the Google drive link. (https://drive.google.com/drive/folders/1VIRzIYNrVgvmRkPKOzIUIo_SdMXIi6-r?usp=sharing).
+1. Here's the Google drive link. (https://drive.google.com/drive/folders/18y83NcTL4RkMNWJZLWjRtwCQf3iLOSIK).
 
 
 [* I have also created a seperate repo for my app.
