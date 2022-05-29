@@ -28,13 +28,13 @@ The main dependencies used are:
 
 
 * Instructions to run it:
-1: clone the repo  
-2:open your terminal
-3:cd into the repo folder
-4:type pip install -r requirements.txt (Note:it will install all the dependecies for the project)
-5:once all dependecies are installed , Type python app.py in the terminal to run the application
+* 1: clone the repo  
+* 2:open your terminal
+* 3:cd into the repo folder
+* 4:type pip install -r requirements.txt (Note:it will install all the dependecies for the project)
+* 5:once all dependecies are installed , Type python app.py in the terminal to run the application
 
-# a browser window will open at http://localhost:8000/ where the application interface resides 
+##  a browser window will open at http://localhost:8000/ where the application interface resides 
 
 
 
