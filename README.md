@@ -15,40 +15,32 @@ I have created a folder named ImagesAttendance which stores the data of the atte
 The file named "Requirements.txt" contains all the tech used and their respective versions too.
 The main dependencies used are:
 * FastApi
-* Hypercorn
-* JavaScript
+* Hypercorn (Production  ASGI server to be used with fastapi) 
+* JavaScript 
 * SQLite
 * OpenCV
 * Facial_recognition
 * Facial_recognition_models (Which is internally used by facial_recognition)
-* Dlib (Internally used by facial_recognition
-*For ipackaging the app *GUI based version of pyinstaller (Known as auto-py-to-exe) Or simply pyinstaller was used 
+
 
 
 ![WhatsApp Image 2022-05-29 at 9 15 47 PM](https://user-images.githubusercontent.com/89723030/170878441-9363ebbb-c120-462b-b260-1d5f739815a1.jpeg)
 
 
 * Instructions to run it:
-1. Here's the Google drive link. (https://drive.google.com/drive/folders/18y83NcTL4RkMNWJZLWjRtwCQf3iLOSIK).
+1: clone the repo  
+2:open your terminal
+3:cd into the repo folder
+4:type pip install -r requirements.txt (Note:it will install all the dependecies for the project)
+5:once all dependecies are installed , Type python app.py in the terminal to run the application
 
-
-[* I have also created a seperate repo for my app.
-https://github.com/Maida-Iftikhar/FRAP.git  However, due to large size, it might be difficult to clone the repo and then run it. It is therfore advised to use the Drive link for a smooth experience.]
-
-
-
-2. Now click download all. It will download a zip
-3. Extract it and you will see a folder named "app" .In that app folder you will find app.exe file
-4. Run it
-5. Wait for the output text in the app console And then in the console it will show you to open localhost:5000/
+# a browser window will open at http://localhost:8000/ where the application interface resides 
 
 
 
-**Note: You always requested to execute the app.exe inside the app folder only because all the dependencies of that app.exe are in that folder. So no shortcuts
-would work.
 
-*On the web page, you could use images of 'Elon Musk', 'Jack Ma', 'Jk Rowlings' , 'Al Waleed', 'Sundar Pichai' and 'Mark Zuckerberg' as these are the stored images in the current database. You
-can further clear the attendance to mark new ones. 
+
+
 
 
 
