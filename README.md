@@ -30,7 +30,7 @@ The main dependencies used are:
 * Instructions to run it: ( Tested  and Run on a Windows Machine)
 * open your terminal 
 * cd into directory of your choice
-* type python -m venv <name> (any name like project env)
+* type python -m venv name  ( here name  indicates any name like project env)
 * after its done , you will see a directory with same name as what you have provided as venv name
 * cd into it 
 * Then type cd scripts
