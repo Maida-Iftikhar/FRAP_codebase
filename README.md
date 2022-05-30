@@ -36,9 +36,9 @@ The main dependencies used are:
 * Then type cd scripts
 * now type activate
 * type cd ..
+* type pip install cmake , pip install dlib ( need to do it seperately) , after its done
 * Now clone the repo into the same  directory
 * cd into the repo folder
-* type pip install cmake , pip install dlib ( need to do it seperately) , after its done
 * type pip install -r requirements.txt (Note:it will install all the dependecies for the project)
 * once all dependecies are installed , Type python app.py in the terminal to run the application
 
